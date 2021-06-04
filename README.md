@@ -1,5 +1,8 @@
+
 # Quote-Generator
 ![Quote Generator](https://user-images.githubusercontent.com/68187500/120793846-0b745f00-c555-11eb-8d1a-98c1702c330e.jpg)
+# Live View:
+https://muskaan1412.github.io/Quote-Generator/
 
 It's a simple Responsive Web App that shows you a quote from famous people every time you press the next quote button. It fetches the quotes from TypeFit API. One can Tweet quotes too. This app was built using HTML, CSS and JavaScript.
 
